@@ -1,2 +1,2 @@
 
-[index](src/index.html)
+[](src/index.html)
