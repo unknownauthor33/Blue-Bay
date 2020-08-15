@@ -22,16 +22,17 @@ $DBcon->close();
     <!-- Responsive Navigation -->
     <?php include "navigation.php";?>
     <!-- ./Responsive Navigation -->
-    
+
     <!-- Main Body -->
 
     <div class=" main">
-       
+
         <p>Welcome <strong></strong><br>to <br> Employee Managment System</p>
+				<center><img src="img/employee.png" /></center>
 
     <!-- ./Main Body -->
-    
-   
+
+
 </div>
 </body>
 

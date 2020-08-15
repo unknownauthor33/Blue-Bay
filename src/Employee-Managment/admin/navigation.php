@@ -71,12 +71,14 @@
         <span></span>
     </div>
     <ul class="menu">
-        
+
         <li class="active"><a href="home.php">Home</a></li>
-        <li><a href="employeeDataView.php">Employee Data View</a></li>
+        <li><a href="employeeDataView.php">Employee Profiles</a></li>
         <li><a href="employeeDelete.php">Employee Remove</a></li>
-        <li><a href="attendance.php">Attendance</a></li>
+        <li><a href="attendance.php">Attendance Registery </a></li>
         <li><a href="task.php">Assign Task</a></li>
+          <li><a href="task.php">Task Staus</a></li>
+            <li><a href="task.php">ChatBot</a></li>
     </ul>
     <ul class="menu">
 

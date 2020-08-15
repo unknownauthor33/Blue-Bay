@@ -73,10 +73,12 @@
     <ul class="menu">
 
         <li class="active"><a href="home.php">Home</a></li>
-        <li><a href="employeeDataAdd.php">Employee Data Store</a></li>
-        
-        <li><a href="mark_attendance.php">Attendance store</a></li>
+        <li><a href="employeeDataAdd.php">Profile</a></li>
+
+        <li><a href="mark_attendance.php">Attendance </a></li>
         <li><a href="view_task.php">Assigned Task</a></li>
+          <li><a href="view_task.php">Update Task Status</a></li>
+
         <li><a href="logout.php">Log Out</a></li>
     </ul>
 
